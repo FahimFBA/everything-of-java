@@ -6,4 +6,4 @@ resources for my everything of java YouTube English playlist
 
 | Index | Topic                   | Source Code            | Tutorial        |
 | ----- | ----------------------- | ---------------------- | --------------- |
-| 1     | Printing "Hello World!" | [Code](./Hello_World/Main.java) | [Coming soon](https://youtu.be/U__ljdoYDYY) |
+| 1     | Printing "Hello World!" | [Code](./Hello_World/Main.java) | [Video](https://youtu.be/U__ljdoYDYY) |
