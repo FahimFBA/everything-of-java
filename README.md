@@ -10,4 +10,4 @@ resources for my everything of java YouTube English playlist
 | 2     | println method/function | [Code](./Print_Statement_println/Main.java) | [Video](https://youtu.be/_jfnI7yyaPo) |
 | 3     | Comments                | [Code](./Comments/Main.java)                | [Video](https://youtu.be/ki1oVqJTgyA) |
 | 4     | Print Functionality     | [Code](./Print_Statement_print/Main.java)   | [Video](https://youtu.be/MCKBTOdzN_s) |
-| 5     | Variables               | [Code](./Variables/Main.java)               | [Video](#)                            |
+| 5     | Variables               | [Code](./Variables/Main.java)               | [Video](https://youtu.be/3qyNVMTvseo) |
