@@ -15,3 +15,4 @@ resources for my everything of java YouTube English playlist
 | 7     | 2 Types of Data Types   | [Slide](./2Types_DataTypes/2%20Types%20of%20Data%20Types%20in%20Java.pptx) | [Video](https://youtu.be/OGpY0iZ4pvA) |
 | 8     | Primitive Data Types    | [Code](./Primitive_DataType/Main.java)                                     | [Video](https://youtu.be/xjkJvjuJ7ig) |
 | 9     | String                  | [Code](./String/Main.java)                                                 | [Video](https://youtu.be/_qdFFfDT6vQ) |
+| 10    | Escape Sequences        | [Code](./EscapeSequence/Main.java)                                         | [Video](https://youtu.be/QqtYTnNxkoM) |
